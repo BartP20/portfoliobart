@@ -16,10 +16,11 @@ header{
     text-align: center;
     font-size: xxx-large;
     padding: 60px;
-    background: url(images);
+    background-image: url("images/clear-impact-state-government-background-header.jpg") ;
+    background-position: center;
+    background-size: cover;
+
 }
-
-
 
 footer{
     text-align: center;
